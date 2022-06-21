@@ -1,18 +1,1 @@
-<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle opacity="0.1" cx="24" cy="24" r="24" fill="#5EC12F"/>
-<g opacity="0.6">
-<path d="M23.4985 20L14 24.3502L23.5015 30L33 24.3502L23.4985 20Z" fill="#7BCC54"/>
-</g>
-<g opacity="0.45">
-<path d="M14 24.4866L24 30V9L14 24.4866Z" fill="#7BCC54"/>
-</g>
-<g opacity="0.8">
-<path d="M24 9V30L33 24.4874L24 9Z" fill="#7BCC54"/>
-</g>
-<g opacity="0.45">
-<path d="M14 26L24 39V31.453L14 26Z" fill="#7BCC54"/>
-</g>
-<g opacity="0.8">
-<path d="M24 31.453V39L33 26L24 31.453Z" fill="#7BCC54"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 48 48"><circle cx="24" cy="24" r="24" fill="#5EC12F" opacity=".1"/><g opacity=".6"><path fill="#7BCC54" d="M23.4985 20L14 24.3502L23.5015 30L33 24.3502L23.4985 20Z"/></g><g opacity=".45"><path fill="#7BCC54" d="M14 24.4866L24 30V9L14 24.4866Z"/></g><g opacity=".8"><path fill="#7BCC54" d="M24 9V30L33 24.4874L24 9Z"/></g><g opacity=".45"><path fill="#7BCC54" d="M14 26L24 39V31.453L14 26Z"/></g><g opacity=".8"><path fill="#7BCC54" d="M24 31.453V39L33 26L24 31.453Z"/></g></svg>
